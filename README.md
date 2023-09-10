@@ -1,7 +1,7 @@
 
 # Razorpay-clone-with-Tailwind-css-Responsive
 
-It's a responsive Razorpay website clone using Tailwind CSS, featuring simple but beautiful design replication and subtle animations to run the project use 'npm run start'.
+It's a responsive Razorpay website clone using Tailwind CSS, featuring simple but beautiful design replication and subtle animations to run the project use ('npm run start').
 
 
 
